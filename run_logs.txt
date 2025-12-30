@@ -1,0 +1,7 @@
+--- BACKEND LOGS ---
+🚀 Server running on port 5000
+✅ Connected to MongoDB
+
+--- FRONTEND LOGS ---
+VITE v6.0.0 ready in 150ms
+➜  Local: http://localhost:5173/
